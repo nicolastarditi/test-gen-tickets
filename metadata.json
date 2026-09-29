@@ -1,0 +1,7 @@
+{
+  "name": "Genesys Support Ticket Portal",
+  "description": "Portal corporativo dinámico para la creación y gestión de tickets de soporte técnico a Genesys Cloud para clientes Enterprise como Claro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
